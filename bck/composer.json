@@ -1,0 +1,9 @@
+{
+    "require": {
+        "kriswallsmith/assetic": "1.2.*@dev",
+        "symfony/event-dispatcher": "2.5.*@dev"
+    },
+    "autoload": {
+        "psr-0": {"Kapo\\": "src/"}
+    }
+}
